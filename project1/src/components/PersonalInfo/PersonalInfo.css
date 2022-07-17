@@ -1,0 +1,15 @@
+.sidebar p{
+   text-align: center;
+   width: 70%;
+}
+.sidebar h1{
+    margin-bottom: 0.5rem;
+    font-weight:700;
+    line-height: 1.2;
+    color: #202C45;
+}
+.sidebar img {
+    border: 13px solid #2A4B7C;
+    border-radius: 50%;
+    width: 60%;
+}

@@ -1,0 +1,32 @@
+.container-blog {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  padding: 20px 0;
+  row-gap: 30px;
+}
+.container-blog h2 {
+  color: #2a4b7c;
+}
+.container-blog img {
+  width: 600px;
+  height: 400px;
+  background-size: cover;
+}
+.container-blog a {
+  padding: 10px 30px;
+  background-color: #2a4b7c;
+  color: #fff;
+  text-decoration: none;
+  border: 1px solid #2a4b7c;
+  letter-spacing: 1px;
+  margin: 3px;
+}
+.container-blog a:hover {
+  color: blue;
+}
+.container-blog p {
+  width: 80%;
+}

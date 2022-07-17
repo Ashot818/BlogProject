@@ -1,0 +1,27 @@
+.main-item-about{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+    row-gap: 12px;
+}
+.main-item-about ul li{
+ margin: 5px;
+ letter-spacing: 2px;
+}
+.main-item-about ul li svg{
+    color: #202C45;
+    margin: 2px;
+}
+
+.main-item-about h2{
+    background-color: white;
+    padding: 5px;
+    transform: translateX(-102px);
+    line-height: 1.2;
+    color: #202C45;
+}
+.main-item-about p {
+    width: 70%;
+}
